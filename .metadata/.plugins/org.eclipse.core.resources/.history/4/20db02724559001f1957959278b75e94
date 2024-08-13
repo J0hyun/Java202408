@@ -20,10 +20,9 @@ public class 캐스트형변환 {
 		
 		System.out.println("----------------------");
 		
-		double d2 = 10 + 10.2; // 10.0 + 10.2
+		double d2 = 10 + 10.2;
 		
-		String str1 = 10 + "20"; // "10" + "20"
-		
+		String str1 = 10 + "20";
 		System.out.println(d2);
 		System.out.println(str1);
 
