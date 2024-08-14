@@ -1,5 +1,7 @@
 package ex04;
 
+import java.util.Scanner;
+
 public class 캐스트형변환 {
 
 	public static void main(String[] args) {
@@ -26,6 +28,7 @@ public class 캐스트형변환 {
 		
 		System.out.println(d2);
 		System.out.println(str1);
+		
 
 	}
 

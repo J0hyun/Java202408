@@ -10,10 +10,7 @@ public class Hello {
 		// 문자 char(2byte), 
 		// 참조 자료형
 		
-	int x = 10;
-	boolean result = (x >= 20);
-	System.out.println(result);
-		
+	
 	}
   
 }
