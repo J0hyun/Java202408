@@ -7,7 +7,7 @@ public class FunctionEx01 {
 		
 		func2(12);
 		
-		int n = func3(20);
+		int n = func3(21);
 		
 		if(n==1) System.out.println("홀수");
 		else System.out.println("짝수");
