@@ -1,9 +1,0 @@
-package sw.mbccom.kr;
-
-public class Hello {
-	public static void main(String[] args) { // 시작점
-		System.out.println("Hello Java!");
-		
-	}
-  
-}

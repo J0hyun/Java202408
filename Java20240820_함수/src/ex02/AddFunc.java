@@ -10,7 +10,7 @@ public class AddFunc {
 	}
 	
 	//함수 기본형태
-	static void add(int num1, int num2 ) { // num1 = 10   num2 = 20
+	static double add(int num1, int num2 ) { // num1 = 10   num2 = 20
 		
 		double add = (double)(num1 + num2); //  add = 30
 		
