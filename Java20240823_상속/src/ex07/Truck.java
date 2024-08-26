@@ -1,7 +1,7 @@
 package ex07;
 
 public class Truck extends Vehicle {
-	double loadCapacity;
+	double loadCapacity; //적재용량
 	
 	Truck(String licensPlate, String owner, double loadCapacity) {
 		super(licensPlate, owner);

@@ -1,8 +1,8 @@
 package ex07;
 
 public class Car extends Vehicle {
-	String fuelType;
-	int seatingCapacity;
+	String fuelType;     // 연료 타입
+	int seatingCapacity; // 탑승 인원
 	
 	
 	 Car(String licensPlate, String owner,
