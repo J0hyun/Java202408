@@ -12,4 +12,10 @@
     <fullyQualifiedTypeName name="ex05.PersonMain"/>
     <fullyQualifiedTypeName name="ex05.PartTimeStudent"/>
     <fullyQualifiedTypeName name="ex07.Car"/>
+    <fullyQualifiedTypeName name="ex03.Dog"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex06.Cow"/>
+    <fullyQualifiedTypeName name="ex07.ClassC"/>
+    <fullyQualifiedTypeName name="ex02.CashPayment"/>
+    <fullyQualifiedTypeName name="ex02.PayPalPayment"/>
 </qualifiedTypeNameHistroy>

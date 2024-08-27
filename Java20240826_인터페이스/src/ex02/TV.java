@@ -2,7 +2,7 @@ package ex02;
 
 interface TV {
 	
-	int Max = 100;
+//	int Max = 100;
 	
 	void powerOn(); // abstract public 생략
 	void powerOff();
