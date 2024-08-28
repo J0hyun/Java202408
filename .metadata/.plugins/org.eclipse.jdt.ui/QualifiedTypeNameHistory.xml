@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="ex07.LibraryClass"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="ex06.StudentMain"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ex04.PartTimeStudent"/>
     <fullyQualifiedTypeName name="ex05.PersonMain"/>
     <fullyQualifiedTypeName name="ex05.PartTimeStudent"/>
@@ -18,4 +17,15 @@
     <fullyQualifiedTypeName name="ex07.ClassC"/>
     <fullyQualifiedTypeName name="ex02.CashPayment"/>
     <fullyQualifiedTypeName name="ex02.PayPalPayment"/>
+    <fullyQualifiedTypeName name="ex00.Mobile"/>
+    <fullyQualifiedTypeName name="ex00.MobileTest"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="test.RentalTV"/>
+    <fullyQualifiedTypeName name="test.TV"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="test01.PlaneTest"/>
 </qualifiedTypeNameHistroy>
