@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="ex01.StringEx01"/>
     <fullyQualifiedTypeName name="ex07.LibraryClass"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
@@ -23,9 +21,25 @@
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="test.RentalTV"/>
     <fullyQualifiedTypeName name="test.TV"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
     <fullyQualifiedTypeName name="test01.PlaneTest"/>
+    <fullyQualifiedTypeName name="ex01.AppleBox"/>
+    <fullyQualifiedTypeName name="ex01.OrangeBox"/>
+    <fullyQualifiedTypeName name="ex07.BoxFactory"/>
+    <fullyQualifiedTypeName name="ex08.BoxFactory"/>
+    <fullyQualifiedTypeName name="ex08.Box"/>
+    <fullyQualifiedTypeName name="ex01.ArrayList01"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="ex04.ArrayList04"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="test02.HashSetLab1"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
 </qualifiedTypeNameHistroy>
