@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="ex06.Cow"/>
-    <fullyQualifiedTypeName name="ex07.ClassC"/>
-    <fullyQualifiedTypeName name="ex02.CashPayment"/>
-    <fullyQualifiedTypeName name="ex02.PayPalPayment"/>
     <fullyQualifiedTypeName name="ex00.Mobile"/>
     <fullyQualifiedTypeName name="ex00.MobileTest"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -22,8 +17,6 @@
     <fullyQualifiedTypeName name="ex01.ArrayList01"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="ex04.ArrayList04"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
@@ -60,4 +53,11 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="utill.MyLogger"/>
     <fullyQualifiedTypeName name="utill.ThreadUtils"/>
+    <fullyQualifiedTypeName name="movie.AbstractMenu"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
 </qualifiedTypeNameHistroy>
